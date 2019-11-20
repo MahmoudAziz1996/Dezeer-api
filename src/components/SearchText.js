@@ -22,6 +22,7 @@ export default class SearchText extends React.Component {
     const { searchValue } = this.state;
     submit(searchValue);
     Keyboard.dismiss();
+    
   }
 
 
