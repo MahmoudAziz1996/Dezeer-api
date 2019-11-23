@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
   },
   mainText: {
     fontWeight: "bold",
-    color: "#3a3a3a",
+    color: "#3a3a4a",
     fontSize: 17
   },
   subText: {
